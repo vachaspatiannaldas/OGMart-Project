@@ -11,6 +11,22 @@ OGMart is an advanced online shopping platform designed to provide a convenient 
 - Backend: Laravel
 - Database: MySQL
 
+### Screenshots
+- Home Page
+
+![screenshot-localhost_3000-2024 07 21-14_34_25](https://github.com/user-attachments/assets/bac4c7c0-5943-4069-91b5-e57a3ee157c9)
+
+- Products Page
+  
+![screenshot-localhost_3000-2024 07 21-14_36_23](https://github.com/user-attachments/assets/963beb97-6621-4943-9789-b3e3b9e0cc69)
+
+- Product Description Page
+
+![screenshot-localhost_3000-2024 07 21-14_37_41](https://github.com/user-attachments/assets/2a7fcb04-f681-4d05-a51d-b249dbf60fc3)
+
+- Cart Page
+![screenshot-localhost_3000-2024 07 21-14_40_00](https://github.com/user-attachments/assets/10d1922f-d563-4ca6-831f-93a65daefc34)
+
 ### Usage
 - Navigate to the homepage to start browsing products.
 - Use advanced search and filtering options to find products quickly.
