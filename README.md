@@ -1,4 +1,4 @@
-# OGMart - Online Shopping System
+# OGMart
 OGMart is an advanced online shopping platform designed to provide a convenient and user-friendly experience for customers to browse, select, and purchase products from the comfort of their homes.
 
 ### Features
@@ -16,7 +16,7 @@ OGMart is an advanced online shopping platform designed to provide a convenient 
 
 ![screenshot-localhost_3000-2024 07 21-14_34_25](https://github.com/user-attachments/assets/bac4c7c0-5943-4069-91b5-e57a3ee157c9)
 
-- Products Page
+- Product Page
   
 ![screenshot-localhost_3000-2024 07 21-14_36_23](https://github.com/user-attachments/assets/963beb97-6621-4943-9789-b3e3b9e0cc69)
 
